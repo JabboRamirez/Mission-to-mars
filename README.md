@@ -9,7 +9,7 @@ Performing a web scraping from Nasa’s websites in order to retrieve informatio
 For this project I am using:
 
 Chrome Developer Tool to identify HTML and CSS components.
-Beautiful Soup (extracts data) and Splinter (automates web browsers) to automate the scrape jupyter notebook.
+Beautiful Soup and Splinter to automate the scrape jupyter notebook.
 Python to write the script scraping.py.
 MongoDB, a NoSQL database to store data. MongoDB can handle the data that isn’t structured, data without relationships to other data. Mongo uses a document model which means that data is stored in JSON data structures.
 Flask to render the data and create a web application app.py.
